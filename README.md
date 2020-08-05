@@ -218,29 +218,4 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 </td></tr>
 
-<tr><td align="center" width="9999">
-  
-## How I can help the project?
-
-|||
-|---|---|
-|Donate|Sponsor deepfake research and DeepFaceLab development.|
-||[Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lepersorium@gmail.com&lc=US&no_note=0&item_name=Support+DeepFaceLab&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
-||[Donate via Yandex.Money](https://money.yandex.ru/to/41001142318065)|
-||bitcoin:bc1qkhh7h0gwwhxgg6h6gpllfgstkd645fefrd5s6z|
-|Alipay 捐款|![](doc/Alipay_donation.jpg)|
-|||
-|Last donations|-|
-|||
-|Collect facesets|You can collect faceset of any celebrity that can be used in DeepFaceLab and share it [in the community](https://mrdeepfakes.com/forums/forum-celebrity-facesets)|
-|||
-|Star this repo|Register github account and push "Star" button.|
-
-</td></tr>
-
-<tr><td align="center" width="9999">
-
-<sub>#deepfacelab #deepfakes #faceswap #face-swap #deep-learning #deeplearning #deep-neural-networks #deepface #deep-face-swap #fakeapp #fake-app #neural-networks #neural-nets #tensorflow #cuda #nvidia</sub>
-
-</td></tr>
 </table>
