@@ -136,43 +136,5 @@ DeepFaceLab is used by such popular youtube channels as
 
 
 </td></tr>
-<tr><td align="center" width="9999">
-
-## Change the lip movement of politicians*
-
-<img src="doc/political_speech.jpg" align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=2Z1oA3GYPaY
-
-\* also requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*
-</td></tr>
-<tr><td align="center" width="9999">
-
-# Deepfake native resolution progress
-
-</td></tr>
-<tr><td align="center" width="9999">
-
-<img src="doc/deepfake_progress.png" align="center">
-
-</td></tr>
-<tr><td align="center" width="9999">
-
-<img src="doc/make_everything_ok.png" align="center">
-
-Unfortunately, there is no "make everything ok" button in DeepFaceLab. You should spend time studying the workflow and growing your skills. A skill in programs such as *AfterEffects* or *Davince Resolve* is also desirable.
-
-</td></tr>
-<tr><td align="center" width="9999">
-
-## Mini tutorial
-
-<a href="https://www.youtube.com/watch?v=1smpMsfC3ls">
-
-<img src="doc/mini_tutorial.jpg" align="center">
-
-</a>
-
-</td></tr>
 
 </table>
