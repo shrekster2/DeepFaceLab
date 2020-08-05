@@ -188,34 +188,5 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 ||||
 
 </td></tr>
-<tr><td align="center" width="9999">
-
-## Links
-
-||||
-|---|---|---|
-|Guides and tutorials|||
-||[DeepFaceLab guide](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-explained-and-tutorials-recommended)|Main guide|
-||[Faceset creation guide](https://mrdeepfakes.com/forums/thread-guide-celebrity-faceset-dataset-creation-how-to-create-celebrity-facesets)|How to create the right faceset |
-||[Google Colab guide](https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial)|Guide how to train the fake on Google Colab|
-||[Compositing](https://mrdeepfakes.com/forums/thread-deepfacelab-2-0-compositing-in-davinci-resolve-vegas-pro-and-after-effects)|To achieve the highest quality, compose deepfake manually in video editors such as Davinci Resolve or Adobe AfterEffects|
-||[Discussion and suggestions](https://mrdeepfakes.com/forums/thread-deepfacelab-2-0-discussion-tips-suggestions)||
-||||
-|Supplementary material|||
-||[Ready to work facesets](https://mrdeepfakes.com/forums/forum-celebrity-facesets)|Celebrity facesets made by community|
-||[Pretrained models](https://mrdeepfakes.com/forums/forum-celebrity-facesets)|Use pretrained models made by community to speed up training|
-||||
-|Communication groups|||
-||[reddit r/RUdeepfakes/](https://www.reddit.com/r/RUdeepfakes/new/)|Постим русские дипфейки сюда !|
-||[Русское сообщество](https://mrdeepfakes.com/forums/forum-russian-community)||
-||[telegram (English / Русский)](https://t.me/joinchat/ElkhqlgJ0I5HhdJyFar80w)|Don't forget to hide your phone number|
-||[telegram (English only)](https://t.me/DeepFaceLab_official_en)|Don't forget to hide your phone number|
-||[mrdeepfakes](https://mrdeepfakes.com/forums/)|the biggest NSFW English community|
-||[reddit r/GifFakes/](https://www.reddit.com/r/GifFakes/new/)|Post your deepfakes there !|
-||[reddit r/SFWdeepfakes/](https://www.reddit.com/r/SFWdeepfakes/new/)|Post your deepfakes there !|
-||QQ 951138799|中文 Chinese QQ group for ML/AI experts|
-||[deepfaker.xyz](https://www.deepfaker.xyz/)|中文学习站（非官方|
-
-</td></tr>
 
 </table>
