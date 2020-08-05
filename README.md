@@ -1,4 +1,4 @@
-﻿<table align="center" border="0"><tr><td align="center" width="840">
+﻿<table align="center" border="0"><tr><td align="center">
 
 # DeepFaceLab  
 
@@ -14,7 +14,7 @@ https://arxiv.org/abs/2005.05535</a>
 <img src="doc/DFL_welcome.png" align="center">
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <p align="center">
 
@@ -38,94 +38,94 @@ DeepFaceLab is used by such popular youtube channels as
 |---|---|
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 # What can I do using DeepFaceLab?
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 ## Replace the face
 
 <img src="doc/replace_the_face.png" align="center">
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 ## De-age the face
 
 <table align="center" border="0">
 
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <img src="doc/deage_0_1.jpg" align="center">
 
 </td>
-<td align="center" width="840">
+<td align="center">
 
 <img src="doc/deage_0_2.jpg" align="center">
 
 </td></tr>
 
-<tr><td colspan=2  align="center" width="840">
+<tr><td colspan=2  align="center">
 
 ![](doc/youtube_icon.png) https://www.youtube.com/watch?v=Ddx5B-84ebo
 
 </td></tr>
 </table>
 
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 ## Replace the head
 
 <table align="center" border="0">
 
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <img src="doc/head_replace_0_1.jpg" align="center">
 
 </td>
-<td align="center" width="840">
+<td align="center">
 
 <img src="doc/head_replace_0_2.jpg" align="center">
 
 </td></tr>
 
-<tr ><td colspan=2  align="center" width="840">
+<tr ><td colspan=2  align="center">
 
 ![](doc/youtube_icon.png) https://www.youtube.com/watch?v=xr5FHd0AdlQ
 
 </td></tr>
 
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <img src="doc/head_replace_1_1.jpg" align="center">
 
 </td>
-<td align="center" width="840">
+<td align="center">
 
 <img src="doc/head_replace_1_2.jpg" align="center">
 
 </td></tr>
 
-<tr ><td colspan=2  align="center" width="840">
+<tr ><td colspan=2  align="center">
 
 ![](doc/youtube_icon.png) https://www.youtube.com/watch?v=RTjgkhMugVw
 
 </td></tr>
 
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <img src="doc/head_replace_2_1.jpg" align="center">
 
 </td>
-<td align="center" width="840">
+<td align="center">
 
 <img src="doc/head_replace_2_2.jpg" align="center">
 
 </td></tr>
 
-<tr ><td colspan=2  align="center" width="840">
+<tr ><td colspan=2  align="center">
 
 ![](doc/youtube_icon.png) https://www.youtube.com/watch?v=R9f7WD0gKPo
 
@@ -136,7 +136,7 @@ DeepFaceLab is used by such popular youtube channels as
 
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 ## Change the lip movement of politicians*
 
@@ -146,24 +146,24 @@ DeepFaceLab is used by such popular youtube channels as
 
 \* also requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 # Deepfake native resolution progress
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <img src="doc/deepfake_progress.png" align="center">
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <img src="doc/make_everything_ok.png" align="center">
 
 Unfortunately, there is no "make everything ok" button in DeepFaceLab. You should spend time studying the workflow and growing your skills. A skill in programs such as *AfterEffects* or *Davince Resolve* is also desirable.
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 ## Mini tutorial
 
@@ -174,7 +174,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </a>
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 ## Releases
 
@@ -188,7 +188,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 ||||
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 ## Links
 
@@ -218,7 +218,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 </td></tr>
 
-<tr><td align="center" width="840">
+<tr><td align="center">
   
 ## How I can help the project?
 
@@ -238,20 +238,20 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 </td></tr>
 
-<tr><td align="center" width="840">
+<tr><td align="center">
   
 ## Meme zone
 <p align="center">
 
 <table align="center" border="0"><tr>
 
-<td align="center" width="840">
+<td align="center">
 
 <img src="doc/meme1.jpg" align="center">
 
 </td>
 
-<td align="center" width="840">
+<td align="center">
 
 <img src="doc/meme2.jpg" align="center">
 
@@ -269,7 +269,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </p>
 
 </td></tr>
-<tr><td align="center" width="840">
+<tr><td align="center">
 
 <sub>#deepfacelab #deepfakes #faceswap #face-swap #deep-learning #deeplearning #deep-neural-networks #deepface #deep-face-swap #fakeapp #fake-app #neural-networks #neural-nets #tensorflow #cuda #nvidia</sub>
 
