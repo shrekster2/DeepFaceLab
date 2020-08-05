@@ -1,4 +1,4 @@
-﻿<table align="center" border="0"><tr><td align="center">
+﻿<table align="center" border="0"><tr><td align="center" width=9999>
 
 # DeepFaceLab  
 
